@@ -1,4 +1,4 @@
-print("Hello GitHub")
+print("Hello from conflict")
 print("HEllo Asad")
 print("HI")
 print("again")
